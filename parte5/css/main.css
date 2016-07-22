@@ -1,0 +1,30 @@
+	body{
+	margin:0;
+	padding: 0;
+	}
+	div{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	}
+	.caja1 {
+	background: #ee3e64;
+	left: 0px;
+	top: 0px;
+	}
+	.caja2 {
+	right: 0px;
+	top: 0px;
+	background: #44accf;
+	
+	}
+	.caja3 {
+	left: 0px;
+	bottom: 0px;
+	background: #b7d84b;
+	}
+	.caja4{
+	background: #FFFF00;
+	right: 0px;
+	bottom: 0px;
+	}
